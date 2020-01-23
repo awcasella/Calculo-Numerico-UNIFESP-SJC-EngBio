@@ -1,4 +1,4 @@
-# Calculo Numérico UNIFESP-SJC Engnharia Biomédica
+# Calculo Numérico UNIFESP-SJC Engenharia Biomédica
 
 This repository contains all the algorithms studied in discipline "Calculo Numerico" of Biomedical Engineering course at UNIFESP in the second semester of 2018. All the algorithms are write in both MatLab and Python Languages. The programatric content of the discipline can be found [here](https://unifesp.br/campus/sjc/images/sjc/Secretaria_de_Graduação/UCs_Vigentes/C/Cálculo_Numérico.pdf).
 
