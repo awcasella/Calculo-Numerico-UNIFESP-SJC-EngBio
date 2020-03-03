@@ -6,11 +6,7 @@ This repository contains all the algorithms studied in discipline "Calculo Numer
 
 **Prerequisites**
 
-To run the algorithms in this repo, you'll need to have either MatLab (or Octave) or Python 3 (and Anaconda) or both installed.
-
-**Installing Anaconda**
-
-Instalation of Anaconda in Linux can be found [here](https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04).
+To run the algorithms in this repo, you'll need to have either MatLab (or Octave) or Python 3 or both installed.
 
 # Algorithms
 
